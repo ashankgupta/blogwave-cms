@@ -90,4 +90,4 @@ blogwave-cms/
 
 ## 📄 License
 
-This project is licensed under MIT License.
+This project is licensed under GNU License.
