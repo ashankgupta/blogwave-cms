@@ -43,7 +43,7 @@
 ## Local Setup (Without Docker)
 1. **Clone the repo**
 ```
-git clone https://github.com/Ashank007/blogwave-cms.git
+git clone https://github.com/ashankgupta/blogwave-cms.git
 cd BlogWave-CMS
 ```
 2. **Backend**
